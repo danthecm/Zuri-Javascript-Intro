@@ -1,1 +1,1 @@
-console.log("Daniel", 51, "Nigeria")
+alert("Daniel 51 Nigeria")

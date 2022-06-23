@@ -1,0 +1,1 @@
+console.log("Daniel", 51, "Nigeria")
